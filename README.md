@@ -94,3 +94,24 @@ Wireframing plays a crucial role in the software development process by providin
   Wireframes can be compared against documented requirements to confirm that all functionalities (like **search filters or booking confirmation**) are accounted for. This ensures that the system design aligns with business goals before moving forward.
 
 In short, wireframing bridges the gap between requirement analysis and actual development, giving everyone a clear roadmap for the final product.
+
+## Real-World Scenario: Wireframing and Usability Issues
+
+A well-known example of wireframing identifying usability issues comes from **Airbnb** during its early design stages. The team initially designed a booking flow where users had to enter guest details, choose a payment method, and confirm bookings all on one long page.  
+
+### Identified Usability Issues
+- Users found the page **confusing and overwhelming** since too many fields were presented at once.  
+- The "Book Now" button was buried below the fold, making it easy to miss.  
+- Testers reported uncertainty about whether their entered information would be saved if they left the page.  
+
+### Resolution
+Through wireframing and iterative testing, Airbnb’s designers:  
+- Split the checkout process into **clear, guided steps** (guest info → payment → confirmation).  
+- Added a **progress bar** at the top to reassure users about where they were in the process.  
+- Placed the "Book Now" button in a **prominent, visible location** to reduce drop-offs.  
+
+### Impact on the Final Product
+These changes simplified the user experience, reduced booking abandonment, and became the foundation of Airbnb’s globally recognized user-friendly flow. Today, the company’s multi-step booking process is considered an industry standard.  
+
+### Conclusion
+This example shows how wireframing helped Airbnb uncover problems early, refine their user flow, and deliver a product that meets user expectations. Wireframing remains critical in ensuring designs are intuitive, saving development costs and avoiding rework later in the SDLC.  

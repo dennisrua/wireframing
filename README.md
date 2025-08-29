@@ -29,3 +29,24 @@ Deciding where text, images, and media will be positioned on the interface.
 ### 4. Functionality
 Interactive elements such as buttons, forms, and input fields that enable user interaction.  
 - **Example**: A *“Book Now”* button linked to the checkout process allows users to immediately proceed with reservations.
+
+## Types of Wireframes
+
+Wireframes can be categorized into two main types, depending on the level of detail and purpose in the design process:
+
+### 1. Low-Fidelity Wireframes
+- **Description**: Simple, rough sketches that focus on layout, structure, and content placement rather than visual design.  
+- **Usage**: Typically used in the early stages of design to quickly explore ideas, map out user flows, and gather feedback without spending too much time on visuals.  
+- **Example**: A black-and-white sketch showing boxes for hotel images, placeholders for text, and basic buttons like *Search* or *Book Now*.  
+
+### 2. High-Fidelity Wireframes
+- **Description**: Detailed, polished representations of the final design that include visual elements such as colors, fonts, icons, and spacing.  
+- **Usage**: Typically used later in the design process, once requirements are clearer, to present a realistic view of the application before moving into full development.  
+- **Example**: A clickable mockup of the booking system in Figma, showing styled navigation menus, hotel images, call-to-action buttons, and real sample data.  
+
+---
+
+## Wireframe Type in Figma
+
+The wireframe created in Figma for this project represents a **High-Fidelity Wireframe**.  
+- **Reason**: Figma wireframes often include detailed visual design elements, interactive components, and near-final layouts. They allow stakeholders to see how the booking system will look and behave in practice, making it easier to validate the design before implementation.
